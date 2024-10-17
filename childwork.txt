@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+hi i am the child--dev2
+=======
 hi i am the child-----mod dev1
+>>>>>>> origin/main
